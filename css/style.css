@@ -5664,7 +5664,7 @@ position: relative;}
 /* ##### 10.0 Cool Fact Area CSS ##### */
 
 .cool-facts-area {
-    padding: 100px 0 200px;
+    padding: 50px 0 50px;
     background: url(../img/bg-img/fun-facts-bg.jpg) no-repeat center;
     background-size: cover;
     position: relative;
